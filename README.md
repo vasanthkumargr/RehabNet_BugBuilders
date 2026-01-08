@@ -124,6 +124,10 @@ This system is designed with **"Progress over Perfection"** in mind.
 *   **Holistic View**: By tracking the *entire* session, it identifies fatigue points (e.g., score dropping in the last 10 seconds).
 
 
+## Outputs
+<img width="1733" height="737" alt="image" src="https://github.com/user-attachments/assets/f4f1fe71-0b50-4dd2-ada5-dd72effebcd6" />
+<img width="1739" height="729" alt="image" src="https://github.com/user-attachments/assets/1d88158b-1dab-425f-b08d-816c81f93931" />
+
 
 
 ##  Demo Instructions
@@ -167,3 +171,4 @@ To run the rehabilitation monitoring prototype:
 ##  Summary
 
 The **AI-Based Rehabilitation Monitoring System** bridges the gap between rigid computer vision metrics and the fluid reality of physical therapy. By focusing on **consistency**, **time-based evaluation**, and **forgiving thresholds**, it provides a tool that is not just accurate, but **clinically relevant** and **encouraging** for patients on their road to recovery.
+
