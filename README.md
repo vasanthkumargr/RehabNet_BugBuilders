@@ -160,15 +160,10 @@ To run the rehabilitation monitoring prototype:
 *   **Telerehab Dashboard**: A web interface for therapists to review patient sessions remotely.
 *   **Voice Coaching**: Integrate TTS to speak corrections aloud for visually impaired patients.
 
-## Outputs
-
-
-![alt text](image.png)
-
-![alt text](image-1.png)
 
 
 ##  Summary
 
 The **AI-Based Rehabilitation Monitoring System** bridges the gap between rigid computer vision metrics and the fluid reality of physical therapy. By focusing on **consistency**, **time-based evaluation**, and **forgiving thresholds**, it provides a tool that is not just accurate, but **clinically relevant** and **encouraging** for patients on their road to recovery.
+
 
