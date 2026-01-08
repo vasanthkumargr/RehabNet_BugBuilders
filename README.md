@@ -1,4 +1,5 @@
-    # AI-Based Rehabilitation Monitoring System
+
+ ### AI-Based Rehabilitation Monitoring System
 
 ##  Problem Statement
 
@@ -165,5 +166,6 @@ To run the rehabilitation monitoring prototype:
 ##  Summary
 
 The **AI-Based Rehabilitation Monitoring System** bridges the gap between rigid computer vision metrics and the fluid reality of physical therapy. By focusing on **consistency**, **time-based evaluation**, and **forgiving thresholds**, it provides a tool that is not just accurate, but **clinically relevant** and **encouraging** for patients on their road to recovery.
+
 
 
